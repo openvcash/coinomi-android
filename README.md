@@ -1,3 +1,6 @@
+(Beta) For development use only !
+==================================
+
 Coinomi Wallet
 ===============
 
